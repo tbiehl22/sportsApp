@@ -3,9 +3,14 @@ body {
 };
 
 .navbar-brand {
-    font-size: 100px;
+    
 }
 
 #button {
     font-weight: bolder;
+}
+
+.h1 {
+    color: white;
+    margin: 10px;
 }
