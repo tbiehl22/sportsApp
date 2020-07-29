@@ -20,12 +20,14 @@ body {
 }
 
 .navbar-brand {
-    margin-left: 50px;
+    margin-left: 275px;
     font-size: 45px;
+    padding-right: 250px;
+    font-family: 
     
 }
 
 .square_image {
-    margin-left: 250px;
     
+
 }
