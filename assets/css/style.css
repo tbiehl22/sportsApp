@@ -2,9 +2,7 @@ body {
     background-image: url("assets/images/oregon.png");
 };
 
-.navbar-brand {
-    
-}
+
 
 #button {
     font-weight: bolder;
@@ -22,12 +20,14 @@ body {
 .navbar-brand {
     margin-left: 275px;
     font-size: 45px;
-    padding-right: 250px;
-    font-family: 
+    padding-right: 250px; 
     
 }
-
-.square_image {
+.card-blazers  {
+    background-image: url("../images/blazers.jpeg");
+    height: 500px;
+    color: white;
+    padding-top: 50px;
+    margin-left: 
     
-
 }
