@@ -27,21 +27,21 @@ body {
 .navbar-brand-timbers {
     margin-left: 275px;
     font-size: 45px;
-    padding-right: 220px; 
+    padding-right: 362px; 
     
 }
 
 .navbar-brand-beavers {
     margin-left: 275px;
     font-size: 45px;
-    padding-right: 220px; 
+    padding-right: 240px; 
     
 }
 
 .navbar-brand-ducks {
     margin-left: 275px;
     font-size: 45px;
-    padding-right: 385px; 
+    padding-right: 386px; 
     
 }
 .card-blazers  {
@@ -58,4 +58,19 @@ body {
     padding-top: 50px; 
     
     
+}
+
+.card-beavers {
+    background-image: url("../images/blazers.jpeg");
+    height: 100%;
+    color: white;
+    padding-top: 50px; 
+}
+
+.card-timbers {
+    background-image: url("../images/blazers.jpeg");
+    height: 100%;
+    color: white;
+    padding-top: 50px; 
+
 }
