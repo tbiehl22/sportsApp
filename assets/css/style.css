@@ -24,10 +24,10 @@ body {
     
 }
 .card-blazers  {
-    background-image: url("../images/blazers.jpeg");
+    /* background-image: url("../images/blazers.jpeg"); */
     height: 100%;
     color: white;
-    padding-top: 50px;
-    margin-left: 
+    padding-top: 50px; 
+    
     
 }
