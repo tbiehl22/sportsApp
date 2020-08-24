@@ -17,10 +17,17 @@ body {
     float: left;
 }
 
-.navbar-brand {
+.navbar-brand-blazers {
     margin-left: 275px;
     font-size: 45px;
-    padding-right: 250px; 
+    padding-right: 220px; 
+    
+}
+
+.navbar-brand-ducks {
+    margin-left: 275px;
+    font-size: 45px;
+    padding-right: 385px; 
     
 }
 .card-blazers  {
