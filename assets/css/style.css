@@ -28,6 +28,13 @@ body {
     height: 100%;
     color: white;
     padding-top: 50px; 
+}
+
+.card-ducks  {
+    background-image: url("../images/blazers.jpeg");
+    height: 100%;
+    color: white;
+    padding-top: 50px; 
     
     
 }
