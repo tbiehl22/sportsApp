@@ -1,5 +1,5 @@
 body {
-    background-image: url("assets/images/oregon.png");
+    height: fit-content;
 };
 
 
@@ -24,8 +24,9 @@ body {
     
 }
 .card-blazers  {
-    /* background-image: url("../images/blazers.jpeg"); */
-    height: 100%;
+    background-image: url("../images/blazers.jpeg");
+    height: auto;
+    width: auto;
     color: white;
     padding-top: 50px; 
     
