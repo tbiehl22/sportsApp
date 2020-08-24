@@ -25,8 +25,7 @@ body {
 }
 .card-blazers  {
     background-image: url("../images/blazers.jpeg");
-    height: auto;
-    width: auto;
+    height: 100%;
     color: white;
     padding-top: 50px; 
     
