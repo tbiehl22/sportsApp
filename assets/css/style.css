@@ -44,6 +44,13 @@ body {
     padding-right: 386px; 
     
 }
+
+.navbar-brand-home {
+    margin-left: 275px;
+    font-size: 45px;
+    padding-right: 550px; 
+    
+}
 .card-blazers  {
     background-image: url("../images/blazers.jpeg");
     height: 100%;
@@ -69,6 +76,14 @@ body {
 
 .card-timbers {
     background-image: url("../images/blazers.jpeg");
+    height: 100%;
+    color: white;
+    padding-top: 50px; 
+
+}
+
+.card-home {
+    background-image: url("../images/oregon.png");
     height: 100%;
     color: white;
     padding-top: 50px; 
