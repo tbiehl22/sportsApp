@@ -59,23 +59,21 @@ body {
 }
 
 .card-ducks  {
-    background-image: url("../images/blazers.jpeg");
+    background-image: url("../images/ducks.png");
     height: 100%;
     color: white;
     padding-top: 50px; 
-    
-    
 }
 
 .card-beavers {
-    background-image: url("../images/blazers.jpeg");
+    background-image: url("../images/beavers.png");
     height: 100%;
     color: white;
     padding-top: 50px; 
 }
 
 .card-timbers {
-    background-image: url("../images/blazers.jpeg");
+    background-image: url("../images/timbers.png");
     height: 100%;
     color: white;
     padding-top: 50px; 
