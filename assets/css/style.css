@@ -81,9 +81,7 @@ body {
 }
 
 .card-home {
-    background-image: url("../images/oregon.png");
-    height: 100%;
+    background-color: rgb(48, 47, 47);
     color: white;
-    padding-top: 50px; 
 
 }
