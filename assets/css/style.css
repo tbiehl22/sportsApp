@@ -48,7 +48,7 @@ body {
 .navbar-brand-home {
     margin-left: 275px;
     font-size: 45px;
-    padding-right: 550px; 
+    padding-right: 285px; 
     
 }
 .card-blazers  {
@@ -83,5 +83,6 @@ body {
 .card-home {
     background-color: rgb(48, 47, 47);
     color: white;
+    font-size: larger;
 
 }
