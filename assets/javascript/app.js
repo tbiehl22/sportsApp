@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
 
-    $('#submitBtn').click(function (event) {
+    $('#blazersSchedulebutton').click(function (event) {
       event.preventDefault();
   
       var degreeSymbol = String.fromCharCode(176);
