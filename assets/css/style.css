@@ -52,31 +52,28 @@ body {
     
 }
 .card-blazers  {
-    background-image: url("../images/blazers.jpeg");
-    height: 100%;
+    background-color: rgb(48, 47, 47);
     color: white;
-    padding-top: 50px; 
+    font-size: larger;
 }
 
 .card-ducks  {
-    background-image: url("../images/ducksbw.png");
-    height: 100%;
+    background-color: rgb(48, 47, 47);
     color: white;
-    padding-top: 50px; 
+    font-size: larger;
+    
 }
 
 .card-beavers {
-    background-image: url("../images/beavers.png");
-    height: 100%;
+    background-color: rgb(48, 47, 47);
     color: white;
-    padding-top: 50px; 
+    font-size: larger; 
 }
 
 .card-timbers {
-    background-image: url("../images/timbers.png");
-    height: 100%;
+    background-color: rgb(48, 47, 47);
     color: white;
-    padding-top: 50px; 
+    font-size: larger; 
 
 }
 
