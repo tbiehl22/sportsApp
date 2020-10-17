@@ -8,6 +8,7 @@ body {
     font-weight: bolder;
 } */
 
+
 .h1 {
     color: white;
     margin: 10px;
@@ -15,6 +16,8 @@ body {
 
 .container {
     float: left;
+    background-color: rgb(48, 47, 47);
+    
 }
 
 .navbar-brand-blazers {
@@ -55,6 +58,7 @@ body {
     background-color: rgb(48, 47, 47);
     color: white;
     font-size: larger;
+    float: left;
 }
 
 .card-ducks  {

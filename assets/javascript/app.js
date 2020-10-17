@@ -8,7 +8,7 @@ $(document).ready(function () {
       var city = $('#city-input').val();
       console.log(city);
   
-      var queryURL = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=c2fa28678b1d4b3ad38208513c930f6b";
+      var queryURL = "http://api.espn.com/v1/sports/basketball/nba" + city + "&appid=c2fa28678b1d4b3ad38208513c930f6b";
       $.ajax({
         url: queryURL,
         method: "GET"
