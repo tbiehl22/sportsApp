@@ -14,7 +14,8 @@ $("#buttonArea").on("click", ".btn", function(){
           var queryURL = "https://api.giphy.com/v1/gifs/search?q="
            + thing + "&api_key=RZzd630ID7ZK2LVJ8AKPcyBBp1Acn9fP&limit=10";
 
-
+//    possible API site
+		//    https://developer.sportradar.com/docs/read/basketball/NBA_v7#faqs
 
   		$.ajax({
   			url: queryURL,
